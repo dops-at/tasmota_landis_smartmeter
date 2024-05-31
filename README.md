@@ -1,0 +1,1 @@
+# tasmota_landis_smartmeter
